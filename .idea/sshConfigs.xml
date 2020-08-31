@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="10.13.88.53" id="655eb447-aa63-4181-b75d-da7257f80ba8" port="22" customName="cmcc" nameFormat="CUSTOM" username="cmcc" />
+    </configs>
+  </component>
+</project>

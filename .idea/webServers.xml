@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dd981c2d-aafd-4fef-96b5-02150b734b0a" name="cmcc">
+        <fileTransfer rootFolder="/home/cmcc" accessType="SFTP" host="10.13.88.53" port="22" sshConfigId="655eb447-aa63-4181-b75d-da7257f80ba8" sshConfig="cmcc">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
